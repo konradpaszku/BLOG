@@ -125,9 +125,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-#my settings
 
-LOGIN_URL = 'users:login'
 
 #settings heroku
 
